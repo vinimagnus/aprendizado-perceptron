@@ -49,7 +49,6 @@ do{
 
 console.log("Os pesos finais são: w1 = " + w1 + " e w2 = "+ w2)
 
-
 function soma(_x1, _x2) {
     return (vies * w0) + (_x1 * w1) + (_x2 * w2)
 }
